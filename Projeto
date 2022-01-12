@@ -1,0 +1,18 @@
+Git 
+Git é o software para controle de versões criado em 2005 por Linus Tovalds (mesmo desenvolvedor do sistema operacional Linux), graças ao seu desempenho otimizado, grande segurança e boa flexibilidade para diferentes tipos de projetos e fluxos de trabalho, é o sistema mais utilizado no mundo, tanto por empresas e projetos comerciais quanto open-source (código-aberto).
+O Git trata dos dados como snapshots (registros de status de um dispositivo ou sistema num determinado instante), dessa forma cada vez que commitamos (commitar é enviar alterações para o controle de versão) ou salva o estado do projeto no Git, ele basicamente guarda um snapshot de como todos os arquivos estão naquele momento e guarda a referência desse estado. Para os arquivos que não foram modificados, ele não guarda uma nova versão, ele apenas faz um link para a versão anterior idêntica que já foi guardada em outro momento.
+Github   
+GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. Ele serve também como um  sistema de repositório, onde você pode armazenar seus projetos, assim como uma nuvem. 
+Principais Funções
+O Git é fundamental para otimização de projetos, dessa forma é essencial estar familiarizado com suas principais funções. 
+
+Commit
+É uma operação que envia as últimas alterações do código-fonte para o repositório, tornando essas alterações parte da revisão principal do repositório.
+Branch
+Cria uma nova ramificação do projeto, assim como em uma árvore, permitindo seguir várias “linhas” diferentes de desenvolvimento para o mesmo projeto.
+Clone
+Copiar um projeto já existente de algum repositório para sua estação de trabalho.
+Fork
+Faz a cópia do repositório para outro repositório(Um projeto em uma conta do Github para outra conta).
+Merge
+ Junção de branches.
